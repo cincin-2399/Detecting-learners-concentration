@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Distracted', 'Face Covered', 'Normal']
+
+roboflow:
+  workspace: summer-project-2
+  project: attention_detection_1
+  version: 14
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/summer-project-2/attention_detection_1/dataset/14
