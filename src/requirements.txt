@@ -1,0 +1,4 @@
+torch_snippets
+opencv-python
+gdown
+mediapipe
